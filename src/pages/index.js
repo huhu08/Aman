@@ -149,12 +149,10 @@ Chad ID Card (in consortium with Diamond Computers Company) 2012.
 
           <section id="cta" className="main special">
             <header className="major">
-              <h2>Congue imperdiet</h2>
+              <h2>We are happy to hear from you</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
                 <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
-              </p>
+contact us              </p>
             </header>
             <footer className="major">
               <ul className="actions">
